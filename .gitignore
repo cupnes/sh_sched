@@ -1,6 +1,9 @@
 *~
 reg*
-memory
 instruction
 command
 cpu_pid
+is_sched
+*_old
+running_task_id
+state
